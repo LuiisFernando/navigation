@@ -1,2 +1,3 @@
 # navigation
-project to learn how implement react-navigation with react-native-gesture-handler
+
+Implementing drawer menu, tab menu and stack menu with react-navigation
